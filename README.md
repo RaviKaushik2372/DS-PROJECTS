@@ -28,3 +28,11 @@ Technique Used: RandomForest
 Problem Type: Binary classification
 Accuracy achieved: 90%
 Statistical tool used: R-studio
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Promotional Links:-
+https://oprice.in/blog/
+https://oprice.in
+
+
+
